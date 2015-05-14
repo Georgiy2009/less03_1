@@ -5,5 +5,5 @@ package ua.in.nvr.www.toys;
  * Yura
  */
 public class Main {
-    
+
 }
